@@ -1,34 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#Russian-Boxer-Federation-Front
 
-## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Курсовой проект "Федерация бокса России".
+Бэкенд написан на Spring, фронт - на TypeScript.
+Не использовал Hibernate, рамки курсовой не позволяли.
+Схема БД.
+![allTotal](https://user-images.githubusercontent.com/72038900/212679050-c99cc763-a507-4e3a-8e9c-e3d145923908.PNG)
+Вкладка олимпийские игры.
+![o1](https://user-images.githubusercontent.com/72038900/212679339-240b2c3a-bcd9-4781-8fcd-eeca33ff39ea.PNG)
+Мужская сборная.
+![o2](https://user-images.githubusercontent.com/72038900/212679509-e3ede7c9-7d3f-476c-9a4b-4a44b7b58018.PNG)
+Вкладка профессиональный бокс.
+![prof1](https://user-images.githubusercontent.com/72038900/212679629-c963b610-52ed-4f88-9821-307b9b8c8cf2.PNG)
+![prof2](https://user-images.githubusercontent.com/72038900/212679648-2aa31f6f-f20c-41af-b463-8557b66c33b2.PNG)
+Дополнительные возможности для администратора (нужно войти).
+![admin](https://user-images.githubusercontent.com/72038900/212679707-01812a11-11e6-40ec-9b5b-4674d9b6ee00.PNG)
+![enter](https://user-images.githubusercontent.com/72038900/212679737-7099a4e0-81d3-4f31-ad64-2d67bb63778f.PNG)
+Инфо о боксере.
+![boxerInfo](https://user-images.githubusercontent.com/72038900/212679782-323e687e-3c8e-4cb7-9a1c-829f74c08171.PNG)
+Вкладка зал славы.
+![respect1](https://user-images.githubusercontent.com/72038900/212679836-ad32a1af-7f9a-4924-8d86-6b675bfb670e.PNG)
