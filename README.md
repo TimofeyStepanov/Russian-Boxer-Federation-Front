@@ -19,6 +19,7 @@
 
 Дополнительные возможности для администратора (нужно войти).
 ![admin](https://user-images.githubusercontent.com/72038900/212679707-01812a11-11e6-40ec-9b5b-4674d9b6ee00.PNG)
+
 ![enter](https://user-images.githubusercontent.com/72038900/212679737-7099a4e0-81d3-4f31-ad64-2d67bb63778f.PNG)
 
 Инфо о боксере.
